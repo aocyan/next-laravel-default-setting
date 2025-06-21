@@ -10,7 +10,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;ubuntu内で　docker-compose up -d --build　を実行する。<br>
    &nbsp;&nbsp;&nbsp;&nbsp;(next-laravel-default-settingディレクトリ内で実行する。)</p>
 <h3>4.VSCodeの起動とymlファイルの確認</h3>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;ubuntu上で　code .　を実行(CoachTech-attendanceディレクトリ内で実行する)し、"docker-compose.yml"ファイル内の<br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;ubuntu上で　code .　を実行(next-laravel-default-settingディレクトリ内で実行する)し、"docker-compose.yml"ファイル内の<br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mysql:<br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;image: mysql:8.0.40<br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;environment:<br>
@@ -53,7 +53,7 @@
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;php artisan storage:link　を実行し、シンボリックリンクを作成する。</p>
 <h3>11.localhostにアクセス(エラー対策)</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://localhost">http://localhost</a> にアクセスする<br>
-   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;※1.permissionエラーが出た際には、ubuntu内CoachTech-attendanceディレクトリで、<br>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;※1.permissionエラーが出た際には、ubuntu内next-laravel-default-settingディレクトリで、<br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sudo chmod -R 777 backend/*　を実行してください。<br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;※2.chmod(): Operation not permittedエラーやfile_put_contents: failed to open stream: Permission deniedが出た際には、ubuntu内CoachTech-attendanceディレクトリで<br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sudo chown -R www-data:www-data src/storage　を実行してください。<br>
