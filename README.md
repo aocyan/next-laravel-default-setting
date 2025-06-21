@@ -64,6 +64,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;npm run build<br>
 を実行する。</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://localhost:3000">http://localhost:3000</a>にアクセスしてnext.jsにアクセスできることを確認する。</p>
+<h2>〇  使用技術</h2>
+<p>・PHP:ver.8.3</p>
+<p>・Laravel:ver.12</p>
+<p> ・next.js:ver.15.3</p>
+<p>・MySQL:ver.15.1</p>
+<p>・Composer:ver.2.8.4</p>
+<p>・ubuntu:ver.24.04.1 LTS</p>
 <h2>〇　URL</h2>
 <p>・開発環境：laravel&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://localhost">http://localhost</a></p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
