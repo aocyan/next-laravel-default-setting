@@ -1,4 +1,4 @@
-<h1>フロントエンド：next.js、バックエンド:laravelの初期環境設定</h1>
+<h1>フロントエンド:next.js、バックエンド:laravelの初期環境設定</h1>
 <h2>〇　環境構築手順</h2>
 <p>※OSはWindows11を使用しております。OSがMacを使用の際は適宜環境構築お願いいたします。</p>
 <h3>1.クローンする</h3>
@@ -65,11 +65,11 @@
 を実行する。</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://localhost:3000">http://localhost:3000</a>にアクセスしてnext.jsにアクセスできることを確認する。</p>
 <h2>〇  使用技術</h2>
-<p>・PHP:ver.8.3</p>
-<p>・Laravel:ver.12</p>
-<p> ・next.js:ver.15.3</p>
+<p>・PHP:ver.8.3.22</p>
+<p>・Laravel:ver.12.19.2</p>
+<p> ・next.js:ver.15.3.3</p>
 <p>・MySQL:ver.15.1</p>
-<p>・Composer:ver.2.8.4</p>
+<p>・Composer:ver.2.8.9</p>
 <p>・ubuntu:ver.24.04.1 LTS</p>
 <h2>〇　URL</h2>
 <p>・開発環境：laravel&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://localhost">http://localhost</a></p>
