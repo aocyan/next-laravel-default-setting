@@ -52,7 +52,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;ubuntu内PHPコンテナ上で<br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;php artisan storage:link　を実行し、シンボリックリンクを作成する。</p>
 <h3>11.localhostにアクセス(エラー対策)</h3>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://localhost/login">http://localhost/login</a> にアクセスする<br>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://localhost">http://localhost</a> にアクセスする<br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;※1.permissionエラーが出た際には、ubuntu内CoachTech-attendanceディレクトリで、<br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sudo chmod -R 777 backend/*　を実行してください。<br>
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;※2.chmod(): Operation not permittedエラーやfile_put_contents: failed to open stream: Permission deniedが出た際には、ubuntu内CoachTech-attendanceディレクトリで<br>
