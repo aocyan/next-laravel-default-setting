@@ -62,7 +62,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;frontendディレクトリ内で<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;npm install<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;npm run build<br>
-を実行する。</p>
+を実行する。(DockerDesktopでコンテナに入り、webを起動してください)</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://localhost:3000">http://localhost:3000</a>にアクセスしてnext.jsにアクセスできることを確認する。</p>
 <h2>〇  使用技術</h2>
 <p>・PHP:ver.8.3.22</p>
